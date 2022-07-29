@@ -49,7 +49,7 @@ da campanha.
 Os algoritmos que melhor classificam o conjunto de teste foi o modelo de regressão logística sem a padronização dos dados, embora
 os outros modelos tenham performance parecida.
 
-A acurácia da solução base foi melhorada 87% para 89%.
+A acurácia da solução base foi melhorada de 87% para 89%.
 
 Importante destacar que caso seja importante a minimização de falsos negativos ou falsos positivos, alguns algoritmos serão preferíveis.
 Se esse for o caso, matrizes de confusão encontradas no código `projeto_ml.ipynb` podem mostrar o melhor modelo.  
