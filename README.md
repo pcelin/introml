@@ -1,7 +1,8 @@
 # introml
 
 Esse projeto irá analisar o desempenho de alguns algoritmos de machine learning 
-aplicados a um problema de classificação de uma empresa de delivery de comidas. 
+aplicados a um problema de classificação de uma empresa de delivery de comidas.
+A análise completa pode ser encontrada [nesse arquivo](https://github.com/pcelin/introml/blob/main/projeto_ml.ipynb).
 
 ## Apresentação do problema
 
